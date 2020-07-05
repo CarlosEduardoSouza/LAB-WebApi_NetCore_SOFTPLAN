@@ -1,0 +1,76 @@
+C:\Compartilhamentos\RepoGit\Projetos NetCore\Desafios\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Compartilhamentos\RepoGit\Projetos NetCore\Desafios\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Compartilhamentos\RepoGit\Projetos NetCore\Desafios\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Compartilhamentos\RepoGit\Projetos NetCore\Desafios\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Softplayer.API.exe
+C:\Compartilhamentos\RepoGit\Projetos NetCore\Desafios\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.csprojAssemblyReference.cache
+C:\Compartilhamentos\RepoGit\Projetos NetCore\Desafios\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.AssemblyInfoInputs.cache
+C:\Compartilhamentos\RepoGit\Projetos NetCore\Desafios\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.AssemblyInfo.cs
+C:\Compartilhamentos\RepoGit\Projetos NetCore\Desafios\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.RazorTargetAssemblyInfo.cache
+C:\Compartilhamentos\RepoGit\Projetos NetCore\Desafios\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\staticwebassets\Softplayer.API.StaticWebAssets.Manifest.cache
+C:\Compartilhamentos\RepoGit\Projetos NetCore\Desafios\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\staticwebassets\Softplayer.API.StaticWebAssets.xml
+C:\Compartilhamentos\RepoGit\Projetos NetCore\Desafios\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Softplayer.API.deps.json
+C:\Compartilhamentos\RepoGit\Projetos NetCore\Desafios\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Softplayer.API.runtimeconfig.json
+C:\Compartilhamentos\RepoGit\Projetos NetCore\Desafios\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Softplayer.API.runtimeconfig.dev.json
+C:\Compartilhamentos\RepoGit\Projetos NetCore\Desafios\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Softplayer.API.dll
+C:\Compartilhamentos\RepoGit\Projetos NetCore\Desafios\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Softplayer.API.pdb
+C:\Compartilhamentos\RepoGit\Projetos NetCore\Desafios\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Compartilhamentos\RepoGit\Projetos NetCore\Desafios\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.csproj.CoreCompileInputs.cache
+C:\Compartilhamentos\RepoGit\Projetos NetCore\Desafios\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Compartilhamentos\RepoGit\Projetos NetCore\Desafios\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.csproj.CopyComplete
+C:\Compartilhamentos\RepoGit\Projetos NetCore\Desafios\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.dll
+C:\Compartilhamentos\RepoGit\Projetos NetCore\Desafios\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.pdb
+C:\Compartilhamentos\RepoGit\Projetos NetCore\Desafios\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.genruntimeconfig.cache
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Softplayer.API.exe
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Softplayer.API.deps.json
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Softplayer.API.runtimeconfig.json
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Softplayer.API.runtimeconfig.dev.json
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Softplayer.API.dll
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Softplayer.API.pdb
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.csprojAssemblyReference.cache
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.AssemblyInfoInputs.cache
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.AssemblyInfo.cs
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.RazorTargetAssemblyInfo.cache
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.csproj.CopyComplete
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\staticwebassets\Softplayer.API.StaticWebAssets.Manifest.cache
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\staticwebassets\Softplayer.API.StaticWebAssets.xml
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.dll
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.pdb
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.genruntimeconfig.cache
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.csproj.CoreCompileInputs.cache
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kakan\Downloads\Softplayer\Softplayer\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Softplayer.API.exe
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Softplayer.API.deps.json
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Softplayer.API.runtimeconfig.json
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Softplayer.API.runtimeconfig.dev.json
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Softplayer.API.dll
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Softplayer.API.pdb
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.csprojAssemblyReference.cache
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.AssemblyInfoInputs.cache
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.AssemblyInfo.cs
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.csproj.CoreCompileInputs.cache
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.RazorTargetAssemblyInfo.cache
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.csproj.CopyComplete
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\staticwebassets\Softplayer.API.StaticWebAssets.Manifest.cache
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\staticwebassets\Softplayer.API.StaticWebAssets.xml
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.dll
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.pdb
+C:\Users\kakan\Desktop\Softplayer\src\Softplayer.API\obj\Debug\netcoreapp3.0\Softplayer.API.genruntimeconfig.cache
